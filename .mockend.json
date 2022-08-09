@@ -1,6 +1,6 @@
 {
   "Todo": {
-    "value": { "string": {} },
+    "value": { "loremWords": { "minLength": 5, "maxLength": 30 } },
     "status": { "boolean": {} }
   }
 }
