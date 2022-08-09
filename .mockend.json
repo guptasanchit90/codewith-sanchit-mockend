@@ -1,0 +1,6 @@
+{
+  "Todo": {
+    "value": { "string": {} },
+    "status": { "boolean": {} }
+  }
+}
